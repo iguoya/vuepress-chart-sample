@@ -1,7 +1,7 @@
 module.exports = {
-  title: ' 设计模式',
-  description: ' 李建忠---可复用的软件设计',
-  base: '/design-patterns/',
+  title: 'vuepress图例',
+  description: '测试各种图表',
+  base: '/vuepress-chart-sample/',
   plugins: [
     ['autobar'],
     [
