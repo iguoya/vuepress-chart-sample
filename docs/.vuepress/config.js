@@ -3,7 +3,6 @@ module.exports = {
   description: '测试各种图表',
   base: '/vuepress-chart-sample/',
   plugins: [
-    ['autobar'],
     [
       'vuepress-plugin-mathjax',
       {
@@ -52,8 +51,5 @@ module.exports = {
         link: '/Standard/'
       }
     ],
-    sidebar: [
-
-    ]
   }
 }
